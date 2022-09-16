@@ -17,5 +17,6 @@ s=0;
 #10
 s=1;
 end
-
 endmodule
+
+// dumpfile and dumpvars ie line 10 and 11 are used only while running code on an online compiler such as EDA playground
