@@ -1,5 +1,3 @@
-// Code your testbench here
-// or browse Examples
 module mux_2_1_tb();
   logic [1:0] d1,d2;
   logic s;
